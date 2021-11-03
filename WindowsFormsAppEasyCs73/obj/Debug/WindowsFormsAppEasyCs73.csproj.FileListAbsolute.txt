@@ -2,3 +2,8 @@ C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs73\WindowsFormsAppEasyCs73\obj\
 C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs73\WindowsFormsAppEasyCs73\obj\Debug\WindowsFormsAppEasyCs73.Properties.Resources.resources
 C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs73\WindowsFormsAppEasyCs73\obj\Debug\WindowsFormsAppEasyCs73.csproj.GenerateResource.cache
 C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs73\WindowsFormsAppEasyCs73\obj\Debug\WindowsFormsAppEasyCs73.csproj.CoreCompileInputs.cache
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs73\WindowsFormsAppEasyCs73\bin\Debug\WindowsFormsAppEasyCs73.exe.config
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs73\WindowsFormsAppEasyCs73\bin\Debug\WindowsFormsAppEasyCs73.exe
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs73\WindowsFormsAppEasyCs73\bin\Debug\WindowsFormsAppEasyCs73.pdb
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs73\WindowsFormsAppEasyCs73\obj\Debug\WindowsFormsAppEasyCs73.exe
+C:\Users\Enin\RiderProjects\WindowsFormsAppEasyCs73\WindowsFormsAppEasyCs73\obj\Debug\WindowsFormsAppEasyCs73.pdb

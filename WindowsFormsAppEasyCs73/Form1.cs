@@ -28,7 +28,7 @@ namespace WindowsFormsAppEasyCs73
             this.Height = 100;
 
             label = new Label();
-            label.Text("Welcome.");
+            label.Text = "Welcome.";
             label.Dock = DockStyle.Top;
 
             button = new Button();
@@ -43,7 +43,7 @@ namespace WindowsFormsAppEasyCs73
 
         public void ClickButton(Object sender, EventArgs e)
         {
-            label.Text("Thank you for shopping.");
+            label.Text = "Thank you for shopping.";
             button.Enabled = false;
         }
     }
